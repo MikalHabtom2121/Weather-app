@@ -35,7 +35,7 @@ function App() {
   async function keyPress(e) {
     if (e.which == 13 && e.target.value) {
       await fetch(
-        `https://api.openweathermap.org/data/2.5/forecast?q=${e.target.value}&APPID=5956ce2bb0aca8ffc91010c10fc668a6`
+        `https://api.openweathermap.org/data/2.5/forecast?q=${e.target.value}&APPID=ApiKey`
       )
         .then((resp) => resp.json())
         .then((api_data) => {
