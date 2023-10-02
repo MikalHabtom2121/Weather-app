@@ -1,0 +1,87 @@
+Create a Reactcomponent called `CommentSection` that displays 
+a section with nested comments. 
+Each comment should have a `username` and `text` property. 
+The `CommentSection` component should receive a `comments`                                 
+array as a prop, where each comment is represented                                           
+                                                                                            
+by an object with `username` and `text` properties.
+
+The `CommentSection` component should render each 
+comment in a visually appealing way, 
+with the username displayed in bold and the comment 
+text displayed below it. 
+Additionally, each comment should have a nested `ReplySection` 
+component that allows users to reply to that specific comment.
+
+
+
+//    deviceInfo                 --> returns basic info of the device
+    camList                    --> returns cameraID  
+    takepic [cameraID]         --> Takes picture from camera
+    startVideo [cameraID]      --> starts recording the video
+    stopVideo                  --> stop recording the video and return the video file
+    startAudio                 --> starts recording the audio
+    stopAudio                  --> stop recording the audio
+    getSMS [inbox|sent]        --> returns inbox sms or sent sms in a file 
+    getCallLogs                --> returns call logs in a file
+    shell                      --> starts a sh shell of the device
+    vibrate [number_of_times]  --> vibrate the device number of time
+    getLocation                --> return the current location of the device
+    getIP                      --> returns the ip of the device
+    getSimDetails              --> returns the details of all sim of the device
+    clear                      --> clears the screen
+    getClipData                --> return the current saved text from the clipboard
+    getMACAddress              --> returns the mac address of the device
+    exit                       --> exit the interpreter
+
+
+I'm feeling extra generous today
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Good morning. Please come in and sit down. Well, what's wrong with him?
+
+
+
+ Good morning. I don’t feel so well…. I have a pain in my tummy which
+spreads to my back. 
+
+
+When did these symptoms start? Does it hurt more when you do
+physical exertion or were you at rest when the pain began?
+
+
+: It was…three days ago and I wasn’t making an effort at all, in fact, I was
+at rest, sleeping and suddenly I felt so much pain... At first I thought it was indigestion
+because I had a big meal and the food I ate was really greasy. The day after I believed I
+could be constipated but in the afternoon I started to have nausea and I felt really hot. 
+
+፦ ቅድሚ ሰለስተ መዓልቲ’ዩ ነይሩ’ሞ ፈጺመ ጻዕሪ ኣይገብርን ነይረ፣ ብሓቂ’ውን ከምኡ’የ ዝገብር ነይረ
+ኣብ ዕረፍቲ፡ ድቃስ ከለኹን ሃንደበት ብዙሕ ቃንዛ ተሰሚዑኒ... ኣብ መጀመርታ  ምሕቃቕ መግቢ መሲሉኒ።
+ምኽንያቱ ዓቢ መግቢ ስለ ዝነበረኒ እቲ ዝበልዖ መግቢ ድማ ናይ ብሓቂ ቅብኣት ዝመልኦ ስለ ዝነበረ። ድሕሪ ዝኣመንኩሉ መዓልቲ ኣነ
+ምሕቃቕ ክገብር ይኽእል እዩ ግን ድሕሪ ቀትሪ ረስኒ ክስምዓኒ ጀሚሩ ናይ ብሓቂ ውዑይ ኮይኑ ተሰሚዑኒ።
+ what needs to be covered
+ 1)client intake
+ 2)
+
